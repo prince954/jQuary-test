@@ -1,0 +1,146 @@
+body{
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+    background: url("hd.jpg");
+}
+
+p{
+    font-size: 25px;
+    color: navajowhite;
+}
+button#hide-1 {
+    background: red;
+    padding: 10px 26px;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+button#hide-1-show {
+    background: red;
+    padding: 10px 26px;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+button#bg-color {
+    background: red;
+    padding: 10px 26px;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+button#hide-2 {
+    background: red;
+    padding: 10px 26px;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+button#text-color {
+    background: red;
+    padding: 10px 26px;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
+#p-4{
+    background: green;
+    color: red;
+    padding: 10px;
+}
+
+button#dbl-click {
+    background: red;
+    padding: 10px 26px;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+button#mouse-enter {
+    background: red;
+    padding: 10px 26px;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
+button#mouse-lived {
+    background: red;
+    padding: 10px 26px;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+button#tog{
+    background: red;
+    padding: 10px 26px;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+h1#p-7 {
+    background: #070707;
+    height: 43px;
+    width: 35%;
+    margin: auto;
+    text-align: center;
+    color: lawngreen;
+    border-radius: 16px;
+    padding: 3px 0px;
+    cursor: pointer;
+}
+
+h4 {
+    width: 87%;
+    margin: auto;
+    text-align: justify;
+    background: black;
+    color: deepskyblue;
+    padding: 14px;
+    margin-top: 10px;
+    border-radius: 18px;
+    display: none;
+}
+
+
+button#animet {
+    background: red;
+    padding: 10px 26px;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
+button#animet-stop {
+    background: red;
+    padding: 10px 26px;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
+div#box{
+    width: 160px;
+    height: 160px;
+    margin-top: 50px;
+    background: red;
+    position: relative;
+    border-radius: 10px;
+}
+
+div#parents *{
+    display: block;
+    border: 2px solid red;
+    padding: 5px;
+    margin: 15px;
+}
